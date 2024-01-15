@@ -12,7 +12,7 @@ format:
 
 website:
   title: "Sayak Paul"
-  site-url: "https://sayakpaul.quarto.pub/sayak-paul/"
+  site-url: "https://sayakpaul.github.io/quarto-blog/"
   description: "Personal site of Sayak Paul."
   favicon: posts/favicon.ico
   search: false
@@ -49,3 +49,6 @@ website:
         href: https://www.linkedin.com/in/sayak-paul/
       - icon: github
         href: https://github.com/sayakpaul
+
+execute:
+  freeze: auto

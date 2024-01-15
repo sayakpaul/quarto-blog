@@ -1,1 +1,1 @@
-Sitemap: https://sayakpaul.quarto.pub/sayak-paul/sitemap.xml
+Sitemap: https://sayakpaul.github.io/quarto-blog/sitemap.xml

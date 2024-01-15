@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>Sayak Paul</title>
-<link>https://sayakpaul.quarto.pub/sayak-paul/blog.html</link>
-<atom:link href="https://sayakpaul.quarto.pub/sayak-paul/blog.xml" rel="self" type="application/rss+xml"/>
+<link>https://sayakpaul.github.io/quarto-blog/blog.html</link>
+<atom:link href="https://sayakpaul.github.io/quarto-blog/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Personal site of Sayak Paul.</description>
 <generator>quarto-1.4.542</generator>
 <lastBuildDate>Thu, 26 May 2022 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Practicing ML in a Non-ML Job</title>
-  <link>https://sayakpaul.quarto.pub/sayak-paul/posts/ml-practice.html</link>
+  <link>https://sayakpaul.github.io/quarto-blog/posts/ml-practice.html</link>
   <description><![CDATA[ 
 
 
@@ -102,12 +102,12 @@
  ]]></description>
   <category>ml-practice</category>
   <category>jobs</category>
-  <guid>https://sayakpaul.quarto.pub/sayak-paul/posts/ml-practice.html</guid>
+  <guid>https://sayakpaul.github.io/quarto-blog/posts/ml-practice.html</guid>
   <pubDate>Thu, 26 May 2022 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>First Steps in GSoC</title>
-  <link>https://sayakpaul.quarto.pub/sayak-paul/posts/gsoc-faqs.html</link>
+  <link>https://sayakpaul.github.io/quarto-blog/posts/gsoc-faqs.html</link>
   <description><![CDATA[ 
 
 
@@ -165,12 +165,12 @@
  ]]></description>
   <category>gsoc</category>
   <category>open-source</category>
-  <guid>https://sayakpaul.quarto.pub/sayak-paul/posts/gsoc-faqs.html</guid>
+  <guid>https://sayakpaul.github.io/quarto-blog/posts/gsoc-faqs.html</guid>
   <pubDate>Sat, 12 Mar 2022 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Publishing ConvNeXt Models on TensorFlow Hub</title>
-  <link>https://sayakpaul.quarto.pub/sayak-paul/posts/convnext-tfhub.html</link>
+  <link>https://sayakpaul.github.io/quarto-blog/posts/convnext-tfhub.html</link>
   <description><![CDATA[ 
 
 
@@ -482,13 +482,13 @@ font-style: inherit;">True</span>))</span></code></pre></div>
   <category>cnns</category>
   <category>imagenet-1k</category>
   <category>convnext</category>
-  <guid>https://sayakpaul.quarto.pub/sayak-paul/posts/convnext-tfhub.html</guid>
+  <guid>https://sayakpaul.github.io/quarto-blog/posts/convnext-tfhub.html</guid>
   <pubDate>Wed, 02 Feb 2022 18:30:00 GMT</pubDate>
-  <media:content url="https://sayakpaul.quarto.pub/sayak-paul/posts/convnext_tfhub/convnext_header.png" medium="image" type="image/png" height="93" width="144"/>
+  <media:content url="https://sayakpaul.github.io/quarto-blog/posts/convnext_tfhub/convnext_header.png" medium="image" type="image/png" height="93" width="144"/>
 </item>
 <item>
   <title>Distributed Training in TensorFlow with AI Platform &amp; Docker</title>
-  <link>https://sayakpaul.quarto.pub/sayak-paul/posts/distributed-training.html</link>
+  <link>https://sayakpaul.github.io/quarto-blog/posts/distributed-training.html</link>
   <description><![CDATA[ 
 
 
@@ -821,13 +821,13 @@ Important
   <category>ai-platform</category>
   <category>docker</category>
   <category>mlops</category>
-  <guid>https://sayakpaul.quarto.pub/sayak-paul/posts/distributed-training.html</guid>
+  <guid>https://sayakpaul.github.io/quarto-blog/posts/distributed-training.html</guid>
   <pubDate>Mon, 05 Apr 2021 18:30:00 GMT</pubDate>
-  <media:content url="https://sayakpaul.quarto.pub/sayak-paul/posts/distributed_training.png" medium="image" type="image/png" height="113" width="144"/>
+  <media:content url="https://sayakpaul.github.io/quarto-blog/posts/distributed_training.png" medium="image" type="image/png" height="113" width="144"/>
 </item>
 <item>
   <title>Building and Installing OpenCV 4.5.0 on an M1 Mac</title>
-  <link>https://sayakpaul.quarto.pub/sayak-paul/posts/install-opencv-m1.html</link>
+  <link>https://sayakpaul.github.io/quarto-blog/posts/install-opencv-m1.html</link>
   <description><![CDATA[ 
 
 
@@ -1087,15 +1087,15 @@ font-style: inherit;">&gt;&gt;&gt; cv2.__version__</span></span></code></pre></d
 </section>
 
  ]]></description>
-  <guid>https://sayakpaul.quarto.pub/sayak-paul/posts/install-opencv-m1.html</guid>
+  <guid>https://sayakpaul.github.io/quarto-blog/posts/install-opencv-m1.html</guid>
   <pubDate>Thu, 31 Dec 2020 18:30:00 GMT</pubDate>
-  <media:content url="https://sayakpaul.quarto.pub/sayak-paul/posts/opencv_m1.png" medium="image" type="image/png" height="87" width="144"/>
+  <media:content url="https://sayakpaul.github.io/quarto-blog/posts/opencv_m1.png" medium="image" type="image/png" height="87" width="144"/>
 </item>
 <item>
   <title>A Battle of Text Detectors for Mobile Deployments: CRAFT vs. EAST</title>
   <dc:creator>Sayak Paul</dc:creator>
   <dc:creator>Tulasi Ram Laghumavarapu</dc:creator>
-  <link>https://sayakpaul.quarto.pub/sayak-paul/posts/optimizing-text-detectors.html</link>
+  <link>https://sayakpaul.github.io/quarto-blog/posts/optimizing-text-detectors.html</link>
   <description><![CDATA[ 
 
 
@@ -1262,13 +1262,13 @@ Important
 </section>
 
  ]]></description>
-  <guid>https://sayakpaul.quarto.pub/sayak-paul/posts/optimizing-text-detectors.html</guid>
+  <guid>https://sayakpaul.github.io/quarto-blog/posts/optimizing-text-detectors.html</guid>
   <pubDate>Thu, 26 Nov 2020 18:30:00 GMT</pubDate>
-  <media:content url="https://sayakpaul.quarto.pub/sayak-paul/posts/text_detector_benchmark.png" medium="image" type="image/png" height="131" width="144"/>
+  <media:content url="https://sayakpaul.github.io/quarto-blog/posts/text_detector_benchmark.png" medium="image" type="image/png" height="131" width="144"/>
 </item>
 <item>
   <title>Optimizing MobileDet for Mobile Deployments</title>
-  <link>https://sayakpaul.quarto.pub/sayak-paul/posts/mobiledet-optimization.html</link>
+  <link>https://sayakpaul.github.io/quarto-blog/posts/mobiledet-optimization.html</link>
   <description><![CDATA[ 
 
 
@@ -1663,13 +1663,13 @@ Note
   <category>tflite</category>
   <category>model-optimization</category>
   <category>mobiledet</category>
-  <guid>https://sayakpaul.quarto.pub/sayak-paul/posts/mobiledet-optimization.html</guid>
+  <guid>https://sayakpaul.github.io/quarto-blog/posts/mobiledet-optimization.html</guid>
   <pubDate>Mon, 28 Sep 2020 18:30:00 GMT</pubDate>
-  <media:content url="https://sayakpaul.quarto.pub/sayak-paul/posts/benchmark.png" medium="image" type="image/png" height="62" width="144"/>
+  <media:content url="https://sayakpaul.github.io/quarto-blog/posts/benchmark.png" medium="image" type="image/png" height="62" width="144"/>
 </item>
 <item>
   <title>The Maker Philosophy with ML APIs</title>
-  <link>https://sayakpaul.quarto.pub/sayak-paul/posts/mlapis-maker.html</link>
+  <link>https://sayakpaul.github.io/quarto-blog/posts/mlapis-maker.html</link>
   <description><![CDATA[ 
 
 
@@ -1949,12 +1949,12 @@ font-style: inherit;">=</span> text</span></code></pre></div>
   <category>gcp</category>
   <category>vision</category>
   <category>apis</category>
-  <guid>https://sayakpaul.quarto.pub/sayak-paul/posts/mlapis-maker.html</guid>
+  <guid>https://sayakpaul.github.io/quarto-blog/posts/mlapis-maker.html</guid>
   <pubDate>Thu, 24 Sep 2020 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>A few favorite recipes in computer vision &amp; deep learning</title>
-  <link>https://sayakpaul.quarto.pub/sayak-paul/posts/2020-08-02-favorite-recipes-vision.html</link>
+  <link>https://sayakpaul.github.io/quarto-blog/posts/2020-08-02-favorite-recipes-vision.html</link>
   <description><![CDATA[ 
 
 
@@ -2091,13 +2091,13 @@ Note
   <category>visual-representation-learning</category>
   <category>self-supervised-learning</category>
   <category>computer-vision</category>
-  <guid>https://sayakpaul.quarto.pub/sayak-paul/posts/2020-08-02-favorite-recipes-vision.html</guid>
+  <guid>https://sayakpaul.github.io/quarto-blog/posts/2020-08-02-favorite-recipes-vision.html</guid>
   <pubDate>Sat, 01 Aug 2020 18:30:00 GMT</pubDate>
-  <media:content url="https://sayakpaul.quarto.pub/sayak-paul/posts/montage_vrl.png" medium="image" type="image/png" height="107" width="144"/>
+  <media:content url="https://sayakpaul.github.io/quarto-blog/posts/montage_vrl.png" medium="image" type="image/png" height="107" width="144"/>
 </item>
 <item>
   <title>Using TensorRT for accelerated deep learning inference</title>
-  <link>https://sayakpaul.quarto.pub/sayak-paul/posts/tftrt-optimization.html</link>
+  <link>https://sayakpaul.github.io/quarto-blog/posts/tftrt-optimization.html</link>
   <description><![CDATA[ 
 
 
@@ -2161,7 +2161,7 @@ font-style: inherit;">=</span> tf.keras.applications.mobilenet_v2.preprocess_inp
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://sayakpaul.quarto.pub/sayak-paul/posts/2020-07-01-accelerated-inference-trt_files/figure-html/cell-9-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://sayakpaul.github.io/quarto-blog/posts/2020-07-01-accelerated-inference-trt_files/figure-html/cell-9-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -2561,13 +2561,13 @@ Important
   <category>tf.keras</category>
   <category>tensorrt</category>
   <category>tensorflow</category>
-  <guid>https://sayakpaul.quarto.pub/sayak-paul/posts/tftrt-optimization.html</guid>
+  <guid>https://sayakpaul.github.io/quarto-blog/posts/tftrt-optimization.html</guid>
   <pubDate>Tue, 30 Jun 2020 18:30:00 GMT</pubDate>
-  <media:content url="https://sayakpaul.quarto.pub/sayak-paul/posts/speed.png" medium="image" type="image/png" height="81" width="144"/>
+  <media:content url="https://sayakpaul.github.io/quarto-blog/posts/speed.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Different data augmentation recipes in tf.keras for image classification</title>
-  <link>https://sayakpaul.quarto.pub/sayak-paul/posts/augmentation-recipes.html</link>
+  <link>https://sayakpaul.github.io/quarto-blog/posts/augmentation-recipes.html</link>
   <description><![CDATA[ 
 
 
@@ -2687,7 +2687,7 @@ font-style: inherit;">print</span>(images.shape, labels.shape)</span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://sayakpaul.quarto.pub/sayak-paul/posts/2020-05-10-augmemtation-recipes_files/figure-html/cell-9-output-2.png" class="img-fluid figure-img"></p>
+<p><img src="https://sayakpaul.github.io/quarto-blog/posts/2020-05-10-augmemtation-recipes_files/figure-html/cell-9-output-2.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -2827,7 +2827,7 @@ font-style: inherit;">False</span>)</span></code></pre></div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://sayakpaul.quarto.pub/sayak-paul/posts/2020-05-10-augmemtation-recipes_files/figure-html/cell-14-output-2.png" class="img-fluid figure-img"></p>
+<p><img src="https://sayakpaul.github.io/quarto-blog/posts/2020-05-10-augmemtation-recipes_files/figure-html/cell-14-output-2.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -2931,7 +2931,7 @@ font-style: inherit;">'off'</span>)</span></code></pre></div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://sayakpaul.quarto.pub/sayak-paul/posts/2020-05-10-augmemtation-recipes_files/figure-html/cell-17-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://sayakpaul.github.io/quarto-blog/posts/2020-05-10-augmemtation-recipes_files/figure-html/cell-17-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -3179,7 +3179,7 @@ font-style: inherit;">'off'</span>)</span></code></pre></div>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://sayakpaul.quarto.pub/sayak-paul/posts/2020-05-10-augmemtation-recipes_files/figure-html/cell-21-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://sayakpaul.github.io/quarto-blog/posts/2020-05-10-augmemtation-recipes_files/figure-html/cell-21-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -3202,13 +3202,13 @@ font-style: inherit;">'off'</span>)</span></code></pre></div>
   <category>tf.keras</category>
   <category>data_augmentation</category>
   <category>image</category>
-  <guid>https://sayakpaul.quarto.pub/sayak-paul/posts/augmentation-recipes.html</guid>
+  <guid>https://sayakpaul.github.io/quarto-blog/posts/augmentation-recipes.html</guid>
   <pubDate>Sat, 09 May 2020 18:30:00 GMT</pubDate>
-  <media:content url="https://sayakpaul.quarto.pub/sayak-paul/posts/augmentation.png" medium="image" type="image/png" height="145" width="144"/>
+  <media:content url="https://sayakpaul.github.io/quarto-blog/posts/augmentation.png" medium="image" type="image/png" height="145" width="144"/>
 </item>
 <item>
   <title>Sharing your work online effectively</title>
-  <link>https://sayakpaul.quarto.pub/sayak-paul/posts/sharing-work.html</link>
+  <link>https://sayakpaul.github.io/quarto-blog/posts/sharing-work.html</link>
   <description><![CDATA[ 
 
 
@@ -3244,12 +3244,12 @@ font-style: inherit;">'off'</span>)</span></code></pre></div>
  ]]></description>
   <category>blogs</category>
   <category>sharing</category>
-  <guid>https://sayakpaul.quarto.pub/sayak-paul/posts/sharing-work.html</guid>
+  <guid>https://sayakpaul.github.io/quarto-blog/posts/sharing-work.html</guid>
   <pubDate>Sun, 19 Apr 2020 18:30:00 GMT</pubDate>
 </item>
 <item>
   <title>Embedding an image preprocessing function in a tf.keras model</title>
-  <link>https://sayakpaul.quarto.pub/sayak-paul/posts/2020-04-13-embedding-image-preprocessing-functions.html</link>
+  <link>https://sayakpaul.github.io/quarto-blog/posts/2020-04-13-embedding-image-preprocessing-functions.html</link>
   <description><![CDATA[ 
 
 
@@ -3356,7 +3356,7 @@ font-style: inherit;">=</span>plt.cm.binary)</span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://sayakpaul.quarto.pub/sayak-paul/posts/2020-04-13-embedding-image-preprocessing-functions_files/figure-html/cell-6-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://sayakpaul.github.io/quarto-blog/posts/2020-04-13-embedding-image-preprocessing-functions_files/figure-html/cell-6-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -3488,7 +3488,7 @@ font-style: inherit;">True</span>)</span></code></pre></div>
 <div class="cell-output cell-output-display" data-execution_count="7">
 <div>
 <figure class="figure">
-<p><img src="https://sayakpaul.quarto.pub/sayak-paul/posts/2020-04-13-embedding-image-preprocessing-functions_files/figure-html/cell-8-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://sayakpaul.github.io/quarto-blog/posts/2020-04-13-embedding-image-preprocessing-functions_files/figure-html/cell-8-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -3617,7 +3617,7 @@ font-style: inherit;">=</span>plt.cm.binary)</span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://sayakpaul.quarto.pub/sayak-paul/posts/2020-04-13-embedding-image-preprocessing-functions_files/figure-html/cell-12-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://sayakpaul.github.io/quarto-blog/posts/2020-04-13-embedding-image-preprocessing-functions_files/figure-html/cell-12-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -3681,7 +3681,7 @@ font-style: inherit;">=</span>plt.cm.binary)</span>
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
-<p><img src="https://sayakpaul.quarto.pub/sayak-paul/posts/2020-04-13-embedding-image-preprocessing-functions_files/figure-html/cell-16-output-1.png" class="img-fluid figure-img"></p>
+<p><img src="https://sayakpaul.github.io/quarto-blog/posts/2020-04-13-embedding-image-preprocessing-functions_files/figure-html/cell-16-output-1.png" class="img-fluid figure-img"></p>
 </figure>
 </div>
 </div>
@@ -4106,7 +4106,7 @@ font-style: inherit;">0</span>]]</span></code></pre></div>
 </section>
 
  ]]></description>
-  <guid>https://sayakpaul.quarto.pub/sayak-paul/posts/2020-04-13-embedding-image-preprocessing-functions.html</guid>
+  <guid>https://sayakpaul.github.io/quarto-blog/posts/2020-04-13-embedding-image-preprocessing-functions.html</guid>
   <pubDate>Sun, 12 Apr 2020 18:30:00 GMT</pubDate>
 </item>
 </channel>
