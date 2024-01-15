@@ -1,18 +1,49 @@
 project:
   type: website
 
-website:
-  title: "quarto-blog"
-  navbar:
-    right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
 format:
   html:
-    theme: theme.css
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
 
-
-
+website:
+  title: Sayak Paul
+  description: "Personal site of Sayak Paul."
+  favicon: posts/favicon.ico
+  search: false
+  twitter-card:
+    creator: "@RisingSayak"
+  open-graph: true
+  repo-actions: [edit, issue]
+  repo-branch: "master"
+  repo-url: "https://github.com/sayakpaul/portfolio"
+  google-analytics: "UA-163448909-1"
+  navbar:
+    background: primary
+    left:
+      - text: "About Me"
+        href: pages/about.qmd
+      - text: "Authoring"
+        href: pages/authoring.qmd
+      - text: "Blog"
+        href: blog.qmd
+      - text: "Education"
+        href: pages/education.qmd
+      - text: "Interviews"
+        href: pages/interviews.qmd
+      - text: "Research"
+        href: pages/research.qmd
+      - text: "Talks/Seminars/Workshops"
+        href: pages/talksseminarsworkshops.qmd
+      - text: "XYZ"
+        href: pages/xyz.qmd
+    right:
+      - icon: twitter
+        href: https://twitter.com/RisingSayak
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sayak-paul/
+      - icon: github
+        href: https://github.com/sayakpaul   
