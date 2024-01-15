@@ -1,6 +1,7 @@
 ---
 title: "XYZ"
-permalink: /xyz
+aliases: 
+  - /xyz
 toc: false
 ---
 

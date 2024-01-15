@@ -1,6 +1,7 @@
 ---
 title: "Research"
-permalink: /research
+aliases: 
+  - /research
 toc: false
 ---
 I am interested in a number of topics pertaining to Deep Learning:

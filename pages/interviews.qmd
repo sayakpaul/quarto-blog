@@ -1,6 +1,7 @@
 ---
 title: Interviews
-permalink: /interviews
+aliases: 
+  - /interviews
 toc: false
 ---
 

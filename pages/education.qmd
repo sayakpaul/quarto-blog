@@ -1,6 +1,7 @@
 ---
 title: Education
-permalink: /education
+aliases: 
+  - /education
 toc: false
 ---
 (The formal ones may be)

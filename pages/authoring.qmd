@@ -1,6 +1,7 @@
 ---
 title: Authoring
-permalink: /authoring
+aliases: 
+  - /authoring
 toc: false
 ---
 Co-authored a book  [Hands-On Python Deep Learning for the Web](https://www.google.com/url?q=https%3A%2F%2Fwww.packtpub.com%2Fin%2Fdata%2Fhands-on-python-deep-learning-for-web&sa=D&sntz=1&usg=AFQjCNFMYAvFS-WzTymOqO7XyzZtdmWV0Q)  with  [Anubhav Singh](http://www.google.com/url?q=http%3A%2F%2Fxprilion.com&sa=D&sntz=1&usg=AFQjCNET_hwCDFMpPXSqwmzfw4HxevAq_A).
