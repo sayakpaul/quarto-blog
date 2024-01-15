@@ -2,90 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/posts/optimizing-text-detectors.html</loc>
-    <lastmod>2024-01-15T04:39:04.252Z</lastmod>
+    <lastmod>2024-01-15T04:42:25.705Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/posts/tftrt-optimization.html</loc>
-    <lastmod>2024-01-15T04:39:02.976Z</lastmod>
+    <lastmod>2024-01-15T04:42:24.433Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/posts/2020-08-02-favorite-recipes-vision.html</loc>
-    <lastmod>2024-01-15T04:39:01.592Z</lastmod>
+    <lastmod>2024-01-15T04:42:23.061Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/posts/augmentation-recipes.html</loc>
-    <lastmod>2024-01-15T04:39:00.356Z</lastmod>
+    <lastmod>2024-01-15T04:42:21.861Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/posts/ml-practice.html</loc>
-    <lastmod>2024-01-15T04:38:59.368Z</lastmod>
+    <lastmod>2024-01-15T04:42:20.917Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/posts/2020-04-13-embedding-image-preprocessing-functions.html</loc>
-    <lastmod>2024-01-15T04:38:58.444Z</lastmod>
+    <lastmod>2024-01-15T04:42:19.997Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/posts/gsoc-faqs.html</loc>
-    <lastmod>2024-01-15T04:38:57.248Z</lastmod>
+    <lastmod>2024-01-15T04:42:18.817Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/pages/authoring.html</loc>
-    <lastmod>2024-01-15T04:38:56.424Z</lastmod>
+    <lastmod>2024-01-15T04:42:18.005Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/pages/research.html</loc>
-    <lastmod>2024-01-15T04:38:54.844Z</lastmod>
+    <lastmod>2024-01-15T04:42:16.449Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/pages/about.html</loc>
-    <lastmod>2024-01-15T04:38:54.240Z</lastmod>
+    <lastmod>2024-01-15T04:42:15.837Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/index.html</loc>
-    <lastmod>2024-01-15T04:38:53.436Z</lastmod>
+    <lastmod>2024-01-15T04:42:15.033Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/blog.html</loc>
-    <lastmod>2024-01-15T04:38:52.552Z</lastmod>
+    <lastmod>2024-01-15T04:42:14.145Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/pages/xyz.html</loc>
-    <lastmod>2024-01-15T04:38:53.868Z</lastmod>
+    <lastmod>2024-01-15T04:42:15.469Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/pages/education.html</loc>
-    <lastmod>2024-01-15T04:38:54.536Z</lastmod>
+    <lastmod>2024-01-15T04:42:16.129Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/pages/talksseminarsworkshops.html</loc>
-    <lastmod>2024-01-15T04:38:55.616Z</lastmod>
+    <lastmod>2024-01-15T04:42:17.225Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/pages/interviews.html</loc>
-    <lastmod>2024-01-15T04:38:56.836Z</lastmod>
+    <lastmod>2024-01-15T04:42:18.405Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/posts/mlapis-maker.html</loc>
-    <lastmod>2024-01-15T04:38:57.872Z</lastmod>
+    <lastmod>2024-01-15T04:42:19.433Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/posts/install-opencv-m1.html</loc>
-    <lastmod>2024-01-15T04:38:58.872Z</lastmod>
+    <lastmod>2024-01-15T04:42:20.405Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/posts/sharing-work.html</loc>
-    <lastmod>2024-01-15T04:38:59.732Z</lastmod>
+    <lastmod>2024-01-15T04:42:21.269Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/posts/mobiledet-optimization.html</loc>
-    <lastmod>2024-01-15T04:39:01.036Z</lastmod>
+    <lastmod>2024-01-15T04:42:22.517Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/posts/distributed-training.html</loc>
-    <lastmod>2024-01-15T04:39:02.468Z</lastmod>
+    <lastmod>2024-01-15T04:42:23.925Z</lastmod>
   </url>
   <url>
     <loc>https://sayakpaul.github.io/quarto-blog/posts/convnext-tfhub.html</loc>
-    <lastmod>2024-01-15T04:39:03.704Z</lastmod>
+    <lastmod>2024-01-15T04:42:25.157Z</lastmod>
   </url>
 </urlset>
