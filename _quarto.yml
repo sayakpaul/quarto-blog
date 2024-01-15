@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 format:
   html:
@@ -10,7 +11,8 @@ format:
     toc: true
 
 website:
-  title: Sayak Paul
+  title: "Sayak Paul"
+  site-url: "https://sayakpaul.quarto.pub/sayak-paul/"
   description: "Personal site of Sayak Paul."
   favicon: posts/favicon.ico
   search: false
@@ -46,4 +48,4 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/sayak-paul/
       - icon: github
-        href: https://github.com/sayakpaul   
+        href: https://github.com/sayakpaul
