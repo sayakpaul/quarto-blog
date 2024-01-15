@@ -1,1 +1,0 @@
-Sitemap: https://sayakpaul.github.io/quarto-blog/sitemap.xml
