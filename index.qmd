@@ -9,11 +9,13 @@ from [here](https://sayak.dev/about). I maintain a Google Doc answering some FAQ
 My external articles and other publishing engagements (like books, liveProjects, etc.) are listed [here](https://sayak.dev/authoring). Decks
 from my speaking engagements are listed [here](https://sayak.dev/talksseminarsworkshops). Interviews are [here](https://sayak.dev/interviews).
 
+The structure of this website is inspired by [Omar's site](https://osanseviero.github.io/hackerllama/).
+
 <center>
 <figure><img src="posts/carted_headshot.jpg" width=350/></figure>
 </center>
 
-## News
+### News
 
 - [Hila Chefer](https://hila-chefer.github.io/) and I presented our tutorial **All Things ViTs: Understanding and Interpreting
 Attention in Vision** at CVPR 2023. Check out the [website](https://all-things-vits.github.io/atv/) for a recording, code samples, slides, and more.
@@ -24,5 +26,5 @@ Attention in Vision** at CVPR 2023. Check out the [website](https://all-things-v
 
 To know about my projects, please refer to [my GitHub profile](https://github.com/sayakpaul). 
 
-Apart from the blogs here, I try to contribute to other platforms in the form of writing. Please refer [here](https://sayak.dev/authoring)
+Apart from the blogs [here](blog.qmd), I try to contribute to other platforms in the form of writing. Please refer [here](https://sayak.dev/authoring)
 for more details.
