@@ -5,7 +5,7 @@ toc: false
 ---
 I love to attend developer meetups, conferences, workshops and learn from them as much as I can. I sometimes talk on a range of topics that I love the most. All the slides of my talks/sessions can be found below.
 
-### Given by me:
+### Given by me
 
 -   Presented our paper  [**A CFS–DNN-Based Intrusion Detection System**](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1007%2F978-981-10-7901-6_19&sa=D&sntz=1&usg=AFQjCNFzOUPqdOOKBps043v56wGUSi5N1g)  at  [International Conference on Communication Devices and Networking](https://www.google.com/url?q=https%3A%2F%2Fwww.springer.com%2Fin%2Fbook%2F9789811079009&sa=D&sntz=1&usg=AFQjCNH9Jj9pNtHNGg70klxFjcGHRSjc7g), Sikkim Manipal Institute of Technology, Sikkim, June 3, 2017.
 -   Presented our paper  [**A Comparative Study of Different Ensemble Learning Techniques Using Wisconsin Breast Cancer Dataset**,](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F8526215&sa=D&sntz=1&usg=AFQjCNFdSr2phgcOOtf9-V7NPeANKmfE5g)  at  [International Conference on Computer, Electrical & Communication Engineering](http://www.google.com/url?q=http%3A%2F%2Ficcece.com%2Ficcece17%2Findex.php&sa=D&sntz=1&usg=AFQjCNG3jUTAcwuFzzrSIQfs3bYsvaSX6w), Techno India University, Kolkata, December 23, 2017.
@@ -83,7 +83,7 @@ Day](https://docs.google.com/document/d/1oRkGg3kc99Ozcketdkpwub8BI26omKkb/edit#)
 - **Staying relevant as an MLE in the age of GenAI**, DevFest Kolkata 2023 (December 22, 2023). Slides are [here](https://docs.google.com/presentation/d/111mLl9pYS91ApdiBe0p0vsKGeJ33cZm0gBNVDJHKB00/edit?usp=sharing).
 - Appeared on the Overpowered podcast with Varun Mayya. Find it [here](https://www.youtube.com/watch?v=IlIhykPDesE).
 
-### Co-organized by me:
+### Co-organized by me
 
 -   [DevFest Kolkata](http://www.google.com/url?q=http%3A%2F%2Fdevfest.gdgkolkata.org&sa=D&sntz=1&usg=AFQjCNFJA0Xr03VP_q7oWUBG9RweQnHu_w), August 3, 2019.
 -   [TensorFlow All-Around Kolkata](https://www.google.com/url?q=https%3A%2F%2Fwww.meetup.com%2FGDG-Kolkata%2Fevents%2F264055077%2F&sa=D&sntz=1&usg=AFQjCNEDVmgkSk8TwBTH7owjE0usWFzLYg), August 31, 2019.
@@ -94,7 +94,7 @@ Day](https://docs.google.com/document/d/1oRkGg3kc99Ozcketdkpwub8BI26omKkb/edit#)
 -   [JAX/Diffusers Sprint](https://github.com/huggingface/community-events/edit/main/jax-controlnet-sprint/), March 29 - May 08, 2023. 
 -   [Deploying Generative AI Models](https://lu.ma/ijcugt4n) in collaboration with Inferless and Sequoia Capital, June 10, 2023. 
 
-### ML Street Talk:
+### ML Street Talk
 
 I used to appear on one of the most popular podcasts in machine learning called the [ML Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ). Below are the episodes where I have made  appearances. 
 
