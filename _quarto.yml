@@ -32,16 +32,10 @@ website:
         href: pages/authoring.qmd
       - text: "Blog"
         href: blog.qmd
-      - text: "Education"
-        href: pages/education.qmd
-      - text: "Interviews"
-        href: pages/interviews.qmd
       - text: "Research"
         href: pages/research.qmd
-      - text: "Talks/Seminars/Workshops"
-        href: pages/talksseminarsworkshops.qmd
-      - text: "XYZ"
-        href: pages/xyz.qmd
+      - text: "Resources"
+        href: pages/resources.qmd
     right:
       - icon: twitter
         href: https://twitter.com/RisingSayak
